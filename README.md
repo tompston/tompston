@@ -7,6 +7,6 @@
 
 ### Frontend stuff
 
-- [mercor.lv](https://mercor.pages.dev/)
+- [mercor.lv](http://mercor.lv/)
 - [Random Landing Page](https://randomlandingpage.netlify.app/)
 - [React-TS Examples](https://react-ts-examples.netlify.app/)
