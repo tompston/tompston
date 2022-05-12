@@ -1,4 +1,3 @@
 - [gomarvin](https://gomarvin.pages.dev)
-- [rufus.pages.dev](https://rufus.pages.dev)
 - [newsbyside.com](https://newsbyside.com/)
 - [mercor.lv](http://mercor.lv/)
